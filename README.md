@@ -1,5 +1,5 @@
 # Automação de front-end com Ruby
-Este repositório foi criado para praticar o conteúdo de *Automação de Front-end com Ruby* do curso "Início Rápido em Teste de Software" disponibilizado pela Iterasys e patrocinado pelo Itaú.
+Projeto de *Automação de Front-end com Ruby + Cucumber*
 
 ## Objetivo
 Aprender a automatizar testes em site web utilizando: Ruby, Cucumber, Capybara, Gherkin.
